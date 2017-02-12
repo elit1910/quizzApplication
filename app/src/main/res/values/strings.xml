@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">quizzApplication</string>
+
+
+    <string-array name="quizz">
+        <item>Is Australia a Continent?</item>
+        <item>Is New Guinea the world third largest island?</item>
+        <item>is Turkmenistan and Turkey neighbours?</item>
+        <item>Tajikistan is not a real country?</item>
+        <item>Uzbekistan is neighbours with both Kazakstan and Kyrgyzstan?</item>
+        <item>Rwanda is called \'Little Africa\'?</item>
+        <item>Saint Helena\'s capital is Georgetown?</item>
+        <item> \'Roof of the World\' is Tibet</item>
+        <item>Bangladesh has 156.6 million inhabitants?</item>
+        <item>Tehran is the Capital of Iran?</item>
+        <item>Ceylon is the former name of Madagascar?</item>
+    </string-array>
+
+    <string name="ja">True</string>
+    <string name="nej">False</string>
+    <string name="start">This is a geography quizz. Answer True or False</string>
+    <string name="ratt">Right Answer!</string>
+    <string name="fel">Wrong Answer!</string>
+    <string name="start1">Next question</string>
+</resources>
